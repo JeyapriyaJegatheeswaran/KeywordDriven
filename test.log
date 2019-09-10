@@ -1,0 +1,5 @@
+2019-08-04 10:57:10.856 [main] INFO  com.test.qa.keywords.Keywords >> Navigate to url : http://the-internet.herokuapp.com/login
+2019-08-04 10:57:10.964 [main] INFO  com.test.qa.keywords.Keywords >> Reading text from ui element with xpath : //h2
+2019-08-04 10:57:11.081 [main] INFO  com.test.qa.keywords.Keywords >> Enter input text : tomsmith to the ui element with xpath ://input[@id="username"]
+2019-08-04 10:57:11.271 [main] INFO  com.test.qa.keywords.Keywords >> Enter input text : SuperSecretPassword! to the ui element with xpath ://input[@id="password"]
+2019-08-04 10:57:12.987 [main] INFO  com.test.qa.keywords.Keywords >> Reading text from ui element with xpath : //h2
